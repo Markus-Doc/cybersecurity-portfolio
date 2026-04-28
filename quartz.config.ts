@@ -1,4 +1,4 @@
-import { QuartzConfig } from "./quartz/cfg"
+﻿import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
@@ -95,4 +95,5 @@ const config: QuartzConfig = {
 }
 
 export default config
+
 
