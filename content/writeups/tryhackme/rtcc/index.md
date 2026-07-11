@@ -7803,7 +7803,7 @@ A Cracking Good Time
 
 ENGAGEMENT CONTEXT
 
-*Engineer: M. Walker (THM Triage)  
+*Engineer: M. Walker (THM Triage)
 Assessment: TryHackMe Red Team Capstone Challenge  
 Workflow: CSAW methodology (tmux-based, variable-driven, evidence-focused)  
 Current Phase: WRK2 credential extraction complete, transitioning to offline hash cracking  

@@ -9,7 +9,7 @@ $RepoName     = "cybersecurity-portfolio"
 $TargetPath   = "D:\GitHub\cybersecurity-portfolio"
 $SourcePath   = "D:\GitHub\Claude_Management\cybersecurity-portfolio"
 $AuthorName   = "M. Walker"
-$AuthorEmail  = "markusdachroeden@gmail.com"
+$AuthorEmail  = ""
 # ==================
 
 # Move folder to target if different

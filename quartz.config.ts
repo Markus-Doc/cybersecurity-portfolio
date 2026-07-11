@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-AU",
+    locale: "en-GB",
     baseUrl: "markus-doc.github.io/cybersecurity-portfolio",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
@@ -95,7 +95,6 @@ const config: QuartzConfig = {
 }
 
 export default config
-
 
 
 
