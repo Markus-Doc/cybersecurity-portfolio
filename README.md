@@ -1,8 +1,6 @@
 # Cybersecurity Portfolio
 
-## Ownership and content boundaries
-
-The repository-level MIT License covers M. Walker's original portfolio structure, configuration, presentation, project descriptions, and independently authored material. It does not relicense Quartz, themes, dependencies, training-platform content, lab material, challenge artefacts, screenshots, or other third-party content. See [NOTICE.md](NOTICE.md).
+Status: live, built from April 2026 and last updated July 2026. Last reviewed September 2026.
 
 A professional cybersecurity portfolio site built on [Quartz v4](https://quartz.jzhao.xyz/). The site separates capability design (Projects) from technical execution (Writeups), and presents supporting artefacts as downloadable deliverables.
 
@@ -51,3 +49,7 @@ All organisations, contacts and entities referenced inside the artefacts are fic
 ## Credits
 
 Built on [Quartz v4](https://github.com/jackyzha0/quartz) by Jacky Zhao.
+
+## Ownership and content boundaries
+
+The repository-level MIT License covers M. Walker's original portfolio structure, configuration, presentation, project descriptions, and independently authored material. It does not relicense Quartz, themes, dependencies, training-platform content, lab material, challenge artefacts, screenshots, or other third-party content. See [NOTICE.md](NOTICE.md).
